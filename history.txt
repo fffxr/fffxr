@@ -1,0 +1,15 @@
+v01  English --> German, for my parents ;-)
+v02  published but retracted; needed minor changes
+v03  ready, published, tweeted finally at 5:05 AM on Jul 26, 2019
+
+v04
+* repo v03 deleted completely; fully removes T-Shirt screenshot
+* img/ new image collage for tweeting
+* German translation manual edits
+* one word corrected in English lyrics
+* added repo URL to footnote, so single pages lead back to this
+* shortened "how to help" section
+* img/ export each page as png, and howto.sh
+* img/ new ThumbsForTweet_v04.png
+
+
