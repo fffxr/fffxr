@@ -11,5 +11,11 @@ v04
 * shortened "how to help" section
 * img/ export each page as png, and howto.sh
 * img/ new ThumbsForTweet_v04.png
+* published v04 tweet at 4:44 AM on Jul 27, 2019
+* deleted all v03 tweets at 28/07/19 04:47
+
+v04b
+* new img/ThumbsForTweet_v04b.png with teasers for 6 of the languages
+
 
 
