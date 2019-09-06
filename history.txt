@@ -18,4 +18,13 @@ v04b
 * new img/ThumbsForTweet_v04b.png with teasers for 6 of the languages
 
 
+v05
+* Esperanto translation was a collaboration of 3 Esperantists
+* French Portuguese Russian Spanish: better DeepL replaced googleTranslations
+* small correction of German manual edits
+* new file English-for-translations.txt
+* new PNGs from every page; new pic for tweet.
+* README.md edits; v04 redirected to v05.
+* ready on ... a Friday: 6/9/19
+
 
