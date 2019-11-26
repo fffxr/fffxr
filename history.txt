@@ -28,3 +28,16 @@ v05
 * ready on ... a Friday: 6/9/19
 
 
+v06
+* one new language, two languages humanized:
+* NEW: Afrikaans, by humans
+* BETTER: French, by humans
+* BETTER: Spanisch, by humans
+* new hashtag #GretaThe1975
+* new PNGs from every page of v06
+* README.md edits
+* v03 v04 v05 redirected to v06
+* new ThumbsForTweet_v06.jpg - Afrikaans, mirrored, hashtag
+* ready before ... globalstrike day 29.11.2019
+
+
